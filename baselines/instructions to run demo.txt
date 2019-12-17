@@ -1,0 +1,8 @@
+1.) Use README.md to install and setup the baseline
+
+2.) run the command for demo
+> python3.6 -m baselines.run --alg=her --env=FetchPickAndPlace-v1 --num_timesteps=0 --load_path=./policies/final/HER_ex1_za --play
+
+3.) extra for training 
+>python3.6 -m baselines.run --alg=her --env=FetchPickAndPlace-v1 --num_timesteps=2.5e6 --save_path=./policies/final/HER_ex1_za --play
+

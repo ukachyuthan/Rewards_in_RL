@@ -1,0 +1,1 @@
+python3.6 -W ignore -m baselines.run --alg=her --env=FetchPickAndPlace-v1 --num_timesteps=2.5e6 --demo_file=/home/taira/wpi/RL_wpi/project4/tests/baselines/baselines/her/data_fetch_random_100.npz --save_path=./policies/her/fetchreach5k
