@@ -15,6 +15,18 @@ The reward functions we created work on the fact that reducing distances along t
 We also additionally worked on a slight modification of the above mentioned reward function to train the model to move the gripper in a Manhattan/Taxi Cab trajectory. Below is an image describing this trajectory from [Wikipedia.](https://en.wikipedia.org/wiki/Taxicab_geometry)
 
 <p align="center">
-  <img width="460" height="300" src="https://github.com/ukachyuthan/Rewards_in_RL/blob/master/Manhattan_distance.svg">
+  <img width="283" height="283" src="https://github.com/ukachyuthan/Rewards_in_RL/blob/master/Manhattan_distance.svg">
 </p>
 
+Further details on how we shaped the rewards will be uploaded via a PDF file or an arXiv link soon.
+
+# Results
+
+The final results with various reward functions are seen in the various trajectories generated below, with the Manhattan trajectory on the bottom right being the most unique.
+
+<p align="center">
+  <img width="500" height="500" src="https://github.com/ukachyuthan/Rewards_in_RL/blob/master/Results.gif">
+</p>
+
+
+We also reduced training times by close to half with these improved reward functions and the results will be documented in the arXiv or PDF file.
