@@ -29,4 +29,4 @@ The final results with various reward functions are seen in the various trajecto
 </p>
 
 
-We also reduced training times by close to half with these improved reward functions and the results will be documented in the arXiv or PDF file. Further we would like to extend our findings and methods to other environments and see if there are patterns or logic to reward engineering.
+We also reduced training times by close to half with these improved reward functions and the results are documented [here](https://arxiv.org/abs/2001.03792). Further we would like to extend our findings and methods to other environments and see if there are patterns or logic to reward engineering.
